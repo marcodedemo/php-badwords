@@ -25,6 +25,7 @@
 
     <strong>Paragrafo censurato:</strong>
     <p> <?php echo str_replace($hiddenWord, '***',$paragrafo) ?> </p>
+    
     <i>Il paragrafo è lungo <?php echo strlen(str_replace($hiddenWord, '***',$paragrafo)) ?> caratteri</i>
 
 </body>

@@ -14,7 +14,7 @@
     <textarea name="paragrafo" id="paragrafo" cols="50" rows="10"></textarea> <br>
 
     <span>Parola da censurare:</span> <br>
-    <input type="text" placeholder="ciao" name="hiddenWord"> <br>
+    <input type="text" placeholder="Parola da censurare" name="hiddenWord"> <br>
 
     <input type="submit">
 
